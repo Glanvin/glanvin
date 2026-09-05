@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Glanvin! 👋
 
-<!--
-**Glanvin/glanvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BSIT(Bachelor of Science in Information Technology) student at Capitol University in the Philippines. Driven by a deep curiosity for technology, writing code is my passion. I strongly believe in using technology for the greater good and am always eager to learn how things work under the hood and upcoming new technologies.
 
-Here are some ideas to get you started:
+![Glanvin's Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I'm currently pursuing my degree in Information Technology at Capitol University.
+- 🐧 A Linux enthusiast! My current favorite operating systems are Arch Linux and Fedora.
+- 💡 I love exploring new technologies and building things that can make a positive impact.
+
+## Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,php,c,cpp,rust,java,kotlin,linux)](https://skillicons.dev)
+
+## Currently Exploring
+
+- 🏫 **Web Development:** Building a solid foundation with PHP, JavaScript, CodeIgniter, and AJAX.
+- ⚙️ **Systems Programming:** Diving deep into low-level and systems languages like Rust, C, and C++.
+- 📱 **App Development:** Exploring the Android space and learning how to build mobile applications.
+
+## Get in Touch
+
+- 📧 **Email:** [glavin.code@gmail.com](mailto:glavin.code@gmail.com)
+- 👾 **Discord:** Miyuu
+- 𝕏 **Twitter:** Miyuu glavinn_(https://x.com/glavinn_?s=11)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
