@@ -22,7 +22,7 @@ I am a BSIT(Bachelor of Science in Information Technology) student at Capitol Un
 ## Get in Touch
 
 - 📧 **Email:** [glavin.code@gmail.com](mailto:glavin.code@gmail.com)
-- 👾 **Discord:** Miyuu
-- 𝕏 **Twitter:** Miyuu glavinn_(https://x.com/glavinn_?s=11)
+- 👾 **Discord:** [Glavin](https://discord.gg/EHPtdKJR)
+- 𝕏 **Twitter:** [Miyuu](https://x.com/glavinn_?s=11)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together.
