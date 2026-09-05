@@ -2,7 +2,7 @@
 
 I am a BSIT(Bachelor of Science in Information Technology) student at Capitol University in the Philippines. Driven by a deep curiosity for technology, writing code is my passion. I strongly believe in using technology for the greater good and am always eager to learn how things work under the hood and upcoming new technologies.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Glanvin&langs_count=6&hide_values=true&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=Glanvin&langs_count=6&hide_values=true&theme=dracula)
+<!--[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Glanvin&langs_count=6&hide_values=true&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=Glanvin&langs_count=6&hide_values=true&theme=dracula)-->
 
 ## About Me
 
